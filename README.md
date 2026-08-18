@@ -1,62 +1,45 @@
-<h1 align="center">👋 Olá, seja bem-vindo(a)!</h1>
+<h1 align="center">👋 Olá, eu sou Pedro Ammes</h1>
 
 <p align="center">
-  Estudante de Ciência da Computação | Desenvolvedor Backend & Sistemas
+  Estudante de Ciência da Computação na UFRGS | Desenvolvedor Backend & Full Stack
 </p>
 
----
+## Sobre mim
 
-## 🎓 Sobre mim
+Estudante de **Ciência da Computação na UFRGS**, com foco em desenvolvimento backend, aplicações full stack e arquitetura de software. Desenvolvo projetos com **Java, Spring Boot, Python, FastAPI, Angular e TypeScript**, criando APIs REST, interfaces web, integrações com bancos de dados e testes automatizados.
 
-Estudante de **Ciência da Computação** na **UFRGS**, com foco em desenvolvimento **backend**, **sistemas** e **aplicações web**. Interessado em construir soluções robustas, performáticas e bem arquitetadas.
+Atualmente busco oportunidades de **estágio ou desenvolvimento júnior** em backend, full stack e engenharia de software.
 
----
+## Tecnologias
 
-## 🛠️ Tecnologias
+**Linguagens:** Java, Python, TypeScript, C e C++  
+**Backend:** Spring Boot, FastAPI, Pydantic, SQLAlchemy e APIs REST  
+**Frontend:** Angular, HTML, SCSS e design responsivo  
+**Dados:** MySQL e modelagem relacional  
+**Qualidade e ferramentas:** Git, testes automatizados, documentação de APIs e arquitetura em camadas
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+## Projetos em destaque
 
-| Categoria | Stack |
-|---|---|
-| **Linguagens** | C, C++, Python |
-| **Backend** | FastAPI |
-| **Frontend** | Angular |
-| **Banco de Dados** | MySQL |
+### [Approval & Invoice Control](https://github.com/Ammews/approval-invoice-control)
 
----
+Aplicação full stack para centralizar aprovações, documentos fiscais, conciliação e fechamento financeiro. Construída com Angular, FastAPI, SQLAlchemy e MySQL, incluindo extração de PDFs, regras de negócio, dashboard e testes automatizados.
 
-## 💡 Interesses
+### [Ágoradit — Maratona de Programação SBSC 2026](https://github.com/Maratona-de-Programacao-SBSC/maratonaSBSC)
 
-- 🏗️ Arquitetura de software
-- ⚡ Performance e otimização
-- 🔧 Desenvolvimento backend
-- 🌐 Sistemas distribuídos
+Sistema para centralização e análise de gastos governamentais, com pipeline de importação de dados do Portal da Transparência e organização de notas fiscais, contratos, empenhos, liquidações e pagamentos.
 
----
+## Interesses
 
-## 🎓 Formação
+- Arquitetura e engenharia de software
+- Desenvolvimento backend e APIs REST
+- Sistemas distribuídos
+- Performance, testes e qualidade de código
 
-**Ciência da Computação** — Universidade Federal do Rio Grande do Sul (UFRGS)
+## Formação
 
----
+**Bacharelado em Ciência da Computação** — Universidade Federal do Rio Grande do Sul (UFRGS), 2025–2029
 
-## 📫 Contato
+## Contato
 
-Disponível para **projetos e colaborações**. Fique à vontade para entrar em contato!
-
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center"><i>Feito com foco em código limpo e sistemas eficientes 🚀</i></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Ammes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-ammes/)
+[![GitHub](https://img.shields.io/badge/GitHub-Ammews-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ammews)
